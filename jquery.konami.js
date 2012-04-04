@@ -3,7 +3,7 @@
  * Using the Konami code, easily configure and Easter Egg for your page
  * or any element on the page.
  *
- * Copyright 2011 8BIT, http://8bit.io
+ * Copyright 2011 - 2012 8BIT, http://8bit.io
  * Released under the MIT License
  */
 
