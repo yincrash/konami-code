@@ -33,7 +33,7 @@
 						opts.cheat();
 					} // end if
 					
-					controllerCode = [];
+					controllerCode.shift();
 
 				} // end if
 				
